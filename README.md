@@ -38,7 +38,7 @@ This is for **educational purposes** only. Use it responsibly, and in controlled
 
 ## 🐞 Ladybird's Portrait:
 
-<img src="https://i.postimg.cc/4yvXY75j/DALL-E-2024-09-23-10-19-59-A-close-up-of-a-ladybird-crawling-on-a-computer-motherboard-The-image.webp" alt="Ladybird Image" width="400" height="100" />
+<img src="https://i.postimg.cc/4yvXY75j/DALL-E-2024-09-23-10-19-59-A-close-up-of-a-ladybird-crawling-on-a-computer-motherboard-The-image.webp" alt="Ladybird Image" width="400" height="300" />
 
 
 ---
