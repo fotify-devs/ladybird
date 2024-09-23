@@ -23,8 +23,8 @@ in_our_hands = False
 loop_count = 0
 
 # Set Telegram bot token and chat ID
-TELEGRAM_BOT_TOKEN = ''
-TELEGRAM_CHAT_ID = ''
+TELEGRAM_BOT_TOKEN = 'xxxxxxxxxxxxx'
+TELEGRAM_CHAT_ID = 'xxxxxx'
 
 # Initialize Telegram bot
 bot = Bot(token=TELEGRAM_BOT_TOKEN)
