@@ -1,6 +1,4 @@
 
-
-```markdown
 # 🐞 Ladybird Keylogger 🐞
 
 Welcome to **Ladybird Keylogger**, your friendly, cute, and totally not-at-all suspicious bot that logs keys, takes screenshots, and snatches clipboard content like it's going out of fashion! 
@@ -47,6 +45,3 @@ This is for **educational purposes** only. Use it responsibly, and in controlled
 ### License
 
 MIT License. Be kind to your ladybirds, always. 🐞
-```
-
-Just swap the placeholder image link (`https://www.example.com/ladybird.png`) with the actual URL of a ladybird image. You can also use one from a royalty-free image source like Unsplash or generate one. Let me know if you need help generating the image!
