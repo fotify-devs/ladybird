@@ -1,4 +1,4 @@
-Here's a fun and lighthearted README file for your code, along with a ladybird image!
+
 
 ```markdown
 # 🐞 Ladybird Keylogger 🐞
