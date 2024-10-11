@@ -22,7 +22,9 @@ in_our_hands = False
 # Initialize counter variable for unique filenames
 loop_count = 0
 
-
+# Set Telegram bot token and chat ID (use placeholders for security)
+TELEGRAM_BOT_TOKEN = ""
+TELEGRAM_CHAT_ID = ""
 
 # Initialize Telegram bot
 bot = Bot(token=TELEGRAM_BOT_TOKEN)
